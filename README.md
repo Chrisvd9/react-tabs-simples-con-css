@@ -1,8 +1,10 @@
-# Getting Started with Create React App
+# react-tabs-simples-con-css
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Tabs simples hechas con react y con una animación de css.
 
-## Available Scripts
+## Imagen y Live preview
 
-In the project directory, you can run:
+[Live preview](https://chrisvd9.github.io/react-tabs-simples-con-css/)
+
+![screenShot01](images/)
 
